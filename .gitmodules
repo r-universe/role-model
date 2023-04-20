@@ -5,6 +5,11 @@
 	branch = HEAD
 [submodule "roleR"]
 	path = roleR
-	url = https://https://github.com/role-model/roleR
+	url = https://github.com/role-model/roleR
+	shallow = true
+	registered = true
+[submodule "roleShiny"]
+	path = roleShiny
+	url = https://github.com/role-model/roleShiny
 	shallow = true
 	registered = true

@@ -13,3 +13,8 @@
 	url = https://github.com/role-model/roleShiny
 	shallow = true
 	registered = true
+[submodule "pika"]
+	path = pika
+	url = https://github.com/ajrominger/pika
+	shallow = true
+	registered = false

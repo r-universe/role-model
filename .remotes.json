@@ -1,11 +1,5 @@
 [
   {
-    "package": "pika",
-    "url": "https://github.com/ajrominger/pika",
-    "via": ["roleShiny", "roleR"],
-    "from": "roleShiny"
-  },
-  {
     "package": "roleR",
     "url": "https://github.com/role-model/roleR",
     "via": ["roleShiny"],
